@@ -1,0 +1,154 @@
+.img-responsive{
+    width: 100% !important;
+}
+.fa-tumblr{
+    
+   width: 25px;
+    height: 25px;
+    background-color:#657E95;
+    text-align: center;
+    color: white;
+    display: block;
+    margin-top: 10px;
+    border-radius: 50%;
+    line-height: 25px;
+    }
+.fa-facebook{
+    width: 25px;
+    height: 25px;
+    background-color:#5375B4;
+    text-align: center;
+    color: white;
+    display: block;
+    margin-top: 10px;
+    border-radius: 50%;
+    line-height: 25px;
+    
+}
+.fa-twitter{
+    width: 25px;
+    height: 25px;
+    background-color:#0CAFF4;
+    text-align: center;
+    color: white;
+    display: block;
+    margin-top: 10px;
+    border-radius: 50%;
+    line-height: 25px;
+    
+}
+.social_media ul li a{
+    text-decoration: none;
+    
+}
+.social_media ul li i:hover{
+   background-color: azure;
+    color: grey;
+    transition: 0.5s;
+    
+}
+.navbar-collapse{
+    background-color: #68BFAE;
+}
+.nav container-fluid{
+    background-color: #68BFAE;
+}
+.social_media{
+    float: right;
+    
+}
+nav{
+    margin-top: 10px;
+}
+
+.navbar li:hover{
+    background-color: #E7E7E7;
+}
+.s_img_text{
+    position: absolute;
+    margin-top: -220px;
+    text-align: center;
+    color: white;
+        padding-left: 115px;
+}
+.item{
+    position: relative;
+}
+
+.title{
+   margin: 25px 0;
+}
+.feature_add h2{
+    font-size: 25px;
+}
+#most_re_bg {
+    min-height:  400px;
+    background-image: url(../images/background.jpg);
+    position: relative;
+   
+    
+}
+.single_image{
+    margin-top: 50px;
+}
+
+#slider_image{
+    margin-top: -10px;
+}
+.plot_image{
+    position: absolute;
+        top: 288px;
+
+}
+#order_book{
+    min-height: 140px;
+    background-color: lightgrey;
+    border-radius: 10px;
+}
+#button{
+    margin-top: 50px;
+}
+.feature_add{
+    padding-left: 20px;
+    padding-top: 8px;
+}
+#order{
+    margin-top: 50px
+}
+#most_traded{
+    margin-top: 20px;
+}
+#most_readed{
+    margin: 50px 0;
+}
+#title_publisher{
+    margin-bottom: 40px;
+    
+}
+#traded{
+    margin-top: -30px;
+}
+#footer_toper{
+    background-color: #272729;
+    margin-top: 30px; 
+    color: white;
+    
+}
+#links ul li a{
+  text-decoration: none;
+  color: aqua;
+}
+#links ul{
+    list-style: none;
+    padding: 0;
+}
+#bottom{
+    background-color: #1F1F21;
+    color: white;
+    text-align: center;
+    
+}
+#cpright{
+    margin-top: 15px;
+    padding: 4px;
+}
